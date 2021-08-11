@@ -1,19 +1,14 @@
 # Tierarten lernen für die Jagdschule
 
-Eine zufällige Auswahl von tausenden aus Flickr geladenen Bildern, um die für den Jagdschein relevanten Wildtier- und Jagdhundearten erkennen zu können. 
+Eine Auswahl von tausenden aus Flickr geladenen Bildern, um die für den Jagdschein relevanten Wildtier- und Jagdhundearten bestimmen zu können. 
 
 ## Nutzung der App
 
-Die Bedienung der App ist simpel: einfach die Kategorie aussuchen, die du lernen willst. Dann wird dir ein Bild einer zufälligen Tierart der Kategorie angezeigt. Mit einem Klick auf "Tierart anzeigen" bekommst du zu sehen, um was für ein Tier es sich handelt. Weiterhin kannst du untendrunter ein Bild vor- oder zurück gehen. 
+Die Bedienung der App ist simpel: einfach die Kategorie aussuchen, dann wird ein Bild einer zufälligen Tierart der Kategorie angezeigt. Mit einem Klick auf "Tierart anzeigen" wird angezeigt, um was für ein Tier es sich handelt. Weiterhin kann mit den Buttons unten vor- oder zurückgegangen werden.
 
 ## Mithelfen
 
-Die App ist zwar jetzt schon sinnvoll zum Lernen zu verwenden, aber sie hat noch einiges an Potenzial, die App besser zu machen. Gerne kannst du mir Vorschläge zur Verbesserung der App schicken, Ideen für neue Features vorschlagen oder auf Bugs der App hinweisen. Per WhatsApp, oder auch per Mail: alwin.fassbender@gmail.com
-
-Um weitere Bilder zur App hinzuzufügen, kannst du mir eine .txt oder .csv Datei schicken, die Links zu einem Photo beinhaltet. Die Zeilen der Datei sollten folgendes Format haben: 
-
-Kategorie,Tierart,<"Link zu dem Photo">;
-Federwild,Türkentaube,https://live.staticflickr.com/1788/43221528202_a5749811b0_o.jpg; <- wobei auch andere Websiten als Flickr möglich sind!
+Die App ist zwar jetzt schon sinnvoll zum Lernen zu verwenden, aber sie hat noch einiges an Potenzial. Beispielsweise sind die Infotexte zu den Tieren aus Wikipedia geladen, aber es wäre sinnvoller die Informationen aus den Unterlagen der Jagdschule zu nehmen. Falls ihr daran Interesse habt, könnt ihr mir Zusammenfassungen zu Tierarten schicken. Gerne könnt ihr mir auch Vorschläge zur Verbesserung der App schicken, Ideen für neue Features vorschlagen oder auf Bugs der App hinweisen. Per WhatsApp, oder auch per Mail: alwin.fassbender@gmail.com
 
 ## Geplante Funktionen
 
